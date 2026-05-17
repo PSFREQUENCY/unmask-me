@@ -6,7 +6,7 @@ The outer world is not promoting inner peace. Fear loops, doom scrolling, perfor
 
 - **Live demo**: https://ai.studio/apps/b8e3b826-5959-4dd5-a24d-8d4450e3dc40
 - **Kaggle notebook**: `kaggle-notebook/unmask-me-gemma4-demo.ipynb` — upload as the Code Resource on the writeup.
-- **Repository**: GITHUB_URL_PLACEHOLDER
+- **Repository**: https://github.com/PSFREQUENCY/unmask-me
 
 ---
 

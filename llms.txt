@@ -53,7 +53,7 @@ The outer world is not promoting inner peace. Doom scrolling, fear loops, perfor
 
 ## Repository
 
-GITHUB_URL_PLACEHOLDER
+https://github.com/PSFREQUENCY/unmask-me
 
 ## License
 

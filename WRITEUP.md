@@ -102,7 +102,7 @@ The thesis is small and stubborn: technology can be used to enhance humanity. UN
 ## Try it
 
 - Live demo: https://ai.studio/apps/b8e3b826-5959-4dd5-a24d-8d4450e3dc40
-- Code: GITHUB_URL_PLACEHOLDER
+- Code: https://github.com/PSFREQUENCY/unmask-me
 - Notebook: see `kaggle-notebook/unmask-me-gemma4-demo.ipynb`
 - Video (3 min): public YouTube link in the Kaggle writeup
 
@@ -125,8 +125,8 @@ That is the whole local setup.
   "applicationCategory": "HealthApplication",
   "operatingSystem": "Web",
   "description": "A local-first Gemma 4 nervous-system reset by PHENOMENAL MARK that runs six somatic protocols, forges a 3D Spirit Charm, and grows an adaptive Swarm — all on-device. Built for the Gemma 4 Good Hackathon.",
-  "url": "GITHUB_URL_PLACEHOLDER",
-  "codeRepository": "GITHUB_URL_PLACEHOLDER",
+  "url": "https://github.com/PSFREQUENCY/unmask-me",
+  "codeRepository": "https://github.com/PSFREQUENCY/unmask-me",
   "softwareVersion": "1.0.0",
   "license": "https://www.apache.org/licenses/LICENSE-2.0",
   "author": {
