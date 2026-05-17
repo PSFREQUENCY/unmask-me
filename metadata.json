@@ -1,0 +1,19 @@
+{
+  "name": "UNMASK ME",
+  "description": "UNMASK ME is a local-first Gemma 4 nervous-system sanctuary by PHENOMENAL MARK (PSFREQUENCY). It runs six somatic protocols (Box Breathe, Somatic Shake, Vagus Hum, Jaw Release, EFT Tap, Ground Stomp), forges a procedural 3D Spirit Charm from a three-question intake, and grows an adaptive Swarm that learns the user's resilience pattern — all without face frames, voice, or reflections leaving the device. Built for the Gemma 4 Good Hackathon (Main Track + Impact Track: Safety & Trust + Special Tech Track: Ollama).",
+  "author": "PHENOMENAL MARK (PSFREQUENCY)",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Gemma 4 local-first inference via Ollama",
+    "Multimodal pre/post somatic face shift scoring",
+    "Adaptive Swarm with knowledge graph",
+    "Six procedural 3D Spirit Charm archetypes",
+    "Web Speech Kokoro voice guidance",
+    "Privacy-first geolocation",
+    "Email-only account, no telemetry, no backend"
+  ]
+}
